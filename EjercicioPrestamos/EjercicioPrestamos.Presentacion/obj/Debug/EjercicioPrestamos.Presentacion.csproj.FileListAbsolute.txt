@@ -1,0 +1,17 @@
+D:\Documents\GitHub\CAI_-01-12112022-EjercicioPrestamos\EjercicioPrestamos\EjercicioPrestamos.Presentacion\bin\Debug\EjercicioPrestamos.Presentacion.exe.config
+D:\Documents\GitHub\CAI_-01-12112022-EjercicioPrestamos\EjercicioPrestamos\EjercicioPrestamos.Presentacion\bin\Debug\EjercicioPrestamos.Presentacion.exe
+D:\Documents\GitHub\CAI_-01-12112022-EjercicioPrestamos\EjercicioPrestamos\EjercicioPrestamos.Presentacion\bin\Debug\EjercicioPrestamos.Presentacion.pdb
+D:\Documents\GitHub\CAI_-01-12112022-EjercicioPrestamos\EjercicioPrestamos\EjercicioPrestamos.Presentacion\bin\Debug\EjercicioPrestamos.Entidades.dll
+D:\Documents\GitHub\CAI_-01-12112022-EjercicioPrestamos\EjercicioPrestamos\EjercicioPrestamos.Presentacion\bin\Debug\EjercicioPrestamos.Negocio.dll
+D:\Documents\GitHub\CAI_-01-12112022-EjercicioPrestamos\EjercicioPrestamos\EjercicioPrestamos.Presentacion\bin\Debug\EjercicioPrestamos.Datos.dll
+D:\Documents\GitHub\CAI_-01-12112022-EjercicioPrestamos\EjercicioPrestamos\EjercicioPrestamos.Presentacion\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\GitHub\CAI_-01-12112022-EjercicioPrestamos\EjercicioPrestamos\EjercicioPrestamos.Presentacion\bin\Debug\EjercicioPrestamos.Entidades.pdb
+D:\Documents\GitHub\CAI_-01-12112022-EjercicioPrestamos\EjercicioPrestamos\EjercicioPrestamos.Presentacion\bin\Debug\EjercicioPrestamos.Negocio.pdb
+D:\Documents\GitHub\CAI_-01-12112022-EjercicioPrestamos\EjercicioPrestamos\EjercicioPrestamos.Presentacion\bin\Debug\EjercicioPrestamos.Datos.pdb
+D:\Documents\GitHub\CAI_-01-12112022-EjercicioPrestamos\EjercicioPrestamos\EjercicioPrestamos.Presentacion\bin\Debug\Newtonsoft.Json.xml
+D:\Documents\GitHub\CAI_-01-12112022-EjercicioPrestamos\EjercicioPrestamos\EjercicioPrestamos.Presentacion\obj\Debug\EjercicioPrestamos.Presentacion.csproj.AssemblyReference.cache
+D:\Documents\GitHub\CAI_-01-12112022-EjercicioPrestamos\EjercicioPrestamos\EjercicioPrestamos.Presentacion\obj\Debug\EjercicioPrestamos.Presentacion.csproj.SuggestedBindingRedirects.cache
+D:\Documents\GitHub\CAI_-01-12112022-EjercicioPrestamos\EjercicioPrestamos\EjercicioPrestamos.Presentacion\obj\Debug\EjercicioPrestamos.Presentacion.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\CAI_-01-12112022-EjercicioPrestamos\EjercicioPrestamos\EjercicioPrestamos.Presentacion\obj\Debug\EjercicioPrestamos.Presentacion.csproj.CopyComplete
+D:\Documents\GitHub\CAI_-01-12112022-EjercicioPrestamos\EjercicioPrestamos\EjercicioPrestamos.Presentacion\obj\Debug\EjercicioPrestamos.Presentacion.exe
+D:\Documents\GitHub\CAI_-01-12112022-EjercicioPrestamos\EjercicioPrestamos\EjercicioPrestamos.Presentacion\obj\Debug\EjercicioPrestamos.Presentacion.pdb

@@ -1,0 +1,6 @@
+D:\Documents\GitHub\CAI_-01-12112022-EjercicioPrestamos\EjercicioPrestamos\EjercicioPrestamos.Entidades\bin\Debug\EjercicioPrestamos.Entidades.dll
+D:\Documents\GitHub\CAI_-01-12112022-EjercicioPrestamos\EjercicioPrestamos\EjercicioPrestamos.Entidades\bin\Debug\EjercicioPrestamos.Entidades.pdb
+D:\Documents\GitHub\CAI_-01-12112022-EjercicioPrestamos\EjercicioPrestamos\EjercicioPrestamos.Entidades\obj\Debug\EjercicioPrestamos.Entidades.csproj.AssemblyReference.cache
+D:\Documents\GitHub\CAI_-01-12112022-EjercicioPrestamos\EjercicioPrestamos\EjercicioPrestamos.Entidades\obj\Debug\EjercicioPrestamos.Entidades.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\CAI_-01-12112022-EjercicioPrestamos\EjercicioPrestamos\EjercicioPrestamos.Entidades\obj\Debug\EjercicioPrestamos.Entidades.dll
+D:\Documents\GitHub\CAI_-01-12112022-EjercicioPrestamos\EjercicioPrestamos\EjercicioPrestamos.Entidades\obj\Debug\EjercicioPrestamos.Entidades.pdb

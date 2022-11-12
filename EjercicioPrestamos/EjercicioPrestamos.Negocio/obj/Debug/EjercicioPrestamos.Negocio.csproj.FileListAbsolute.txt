@@ -1,0 +1,13 @@
+D:\Documents\GitHub\CAI_-01-12112022-EjercicioPrestamos\EjercicioPrestamos\EjercicioPrestamos.Negocio\obj\Debug\EjercicioPrestamos.Negocio.csproj.AssemblyReference.cache
+D:\Documents\GitHub\CAI_-01-12112022-EjercicioPrestamos\EjercicioPrestamos\EjercicioPrestamos.Negocio\obj\Debug\EjercicioPrestamos.Negocio.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\CAI_-01-12112022-EjercicioPrestamos\EjercicioPrestamos\EjercicioPrestamos.Negocio\bin\Debug\EjercicioPrestamos.Negocio.dll
+D:\Documents\GitHub\CAI_-01-12112022-EjercicioPrestamos\EjercicioPrestamos\EjercicioPrestamos.Negocio\bin\Debug\EjercicioPrestamos.Negocio.pdb
+D:\Documents\GitHub\CAI_-01-12112022-EjercicioPrestamos\EjercicioPrestamos\EjercicioPrestamos.Negocio\bin\Debug\EjercicioPrestamos.Datos.dll
+D:\Documents\GitHub\CAI_-01-12112022-EjercicioPrestamos\EjercicioPrestamos\EjercicioPrestamos.Negocio\bin\Debug\EjercicioPrestamos.Entidades.dll
+D:\Documents\GitHub\CAI_-01-12112022-EjercicioPrestamos\EjercicioPrestamos\EjercicioPrestamos.Negocio\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\GitHub\CAI_-01-12112022-EjercicioPrestamos\EjercicioPrestamos\EjercicioPrestamos.Negocio\bin\Debug\EjercicioPrestamos.Datos.pdb
+D:\Documents\GitHub\CAI_-01-12112022-EjercicioPrestamos\EjercicioPrestamos\EjercicioPrestamos.Negocio\bin\Debug\EjercicioPrestamos.Entidades.pdb
+D:\Documents\GitHub\CAI_-01-12112022-EjercicioPrestamos\EjercicioPrestamos\EjercicioPrestamos.Negocio\bin\Debug\Newtonsoft.Json.xml
+D:\Documents\GitHub\CAI_-01-12112022-EjercicioPrestamos\EjercicioPrestamos\EjercicioPrestamos.Negocio\obj\Debug\EjercicioPrestamos.Negocio.csproj.CopyComplete
+D:\Documents\GitHub\CAI_-01-12112022-EjercicioPrestamos\EjercicioPrestamos\EjercicioPrestamos.Negocio\obj\Debug\EjercicioPrestamos.Negocio.dll
+D:\Documents\GitHub\CAI_-01-12112022-EjercicioPrestamos\EjercicioPrestamos\EjercicioPrestamos.Negocio\obj\Debug\EjercicioPrestamos.Negocio.pdb
